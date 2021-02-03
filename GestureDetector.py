@@ -1,5 +1,4 @@
 # coding: utf-8
-#你好，我是王恩果
 from keras.models import load_model
 import numpy as np
 import cv2
